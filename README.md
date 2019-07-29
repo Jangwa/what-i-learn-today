@@ -9,3 +9,7 @@
 ### Chrome Extention | Friday, 26 July 2019
 #### How to save in local storage
 - https://github.com/Jangwa/chrome-extention/commit/c7c0bc807ed375ae18cbc97e012f6298f1bd27e3
+
+### Chrome Extentions | Monday, 29 July 2019
+#### Fetch saved data from local storage
+- https://github.com/Jangwa/chrome-extention/commit/011848ab584d6b87f40dce40c32a8665509bd8c4
