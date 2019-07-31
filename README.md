@@ -14,6 +14,6 @@
 #### Fetch saved data from local storage
 - https://github.com/Jangwa/chrome-extention/commit/011848ab584d6b87f40dce40c32a8665509bd8c4
 ---
-### Ruby on Rails | Wednessday, 21 July 2019
+### Ruby on Rails | Wednessday, 31 July 2019
 #### Create Rails App | Route | Controller | REST API | JSON Response
 - https://github.com/Jangwa/ruby-on-rail-practice/commit/8135c3d891ff5f794eda60b8b4aa7a69d1673e27
